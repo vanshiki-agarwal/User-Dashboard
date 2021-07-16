@@ -1,0 +1,31 @@
+.pagination__link {
+  height: 5rem;
+  margin: 3rem;
+  border-radius: 0.6rem;
+  background: #ffffff;
+  box-shadow: 0 0.8rem 2rem rgba(#5a6181, 0.05);
+  margin: 0.8rem;
+  cursor: pointer;
+  width: 2.6rem;
+  height: 2.6rem;
+  border-radius: 0.4rem;
+}
+
+.paginate-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+a {
+  padding: 0 5px;
+  text-decoration: none;
+}
+
+.pagination-active {
+  color: #007bff;
+}
+
+.pagination-disabled {
+  color: #5a6181;
+}

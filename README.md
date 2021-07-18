@@ -1,4 +1,4 @@
-# RVJ ASSESSMENT
+# Users-Dashboard
 
 A React app to stimulate different RESTApi endpoints where you can add new user, delete and update an exisiting user and also you can see the details of the user.
 
